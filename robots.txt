@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap:  https://aj00159159-hash.github.io/sitemap.xml
